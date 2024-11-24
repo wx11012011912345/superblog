@@ -1,10 +1,7 @@
 ## Spring Boot 实战纪实
 
-<br>
-<section>
-    <a href="https://img.zhikestreet.com/20220117225358.png?imageView2/0/q/75|watermark/2/text/NTJJbnRlcnZpZXc=/font/5a6L5L2T/fontsize/240/fill/IzBFMDkwNQ==/dissolve/100/gravity/SouthEast/dx/10/dy/10" data-lightbox="example-set"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.zhikestreet.com/20220117225358.png?imageView2/0/q/75|watermark/2/text/NTJJbnRlcnZpZXc=/font/5a6L5L2T/fontsize/240/fill/IzBFMDkwNQ==/dissolve/100/gravity/SouthEast/dx/10/dy/10" alt=""></a>
-</section> 
-<br>
+
+![image](https://github.com/user-attachments/assets/fe51dac6-de2f-4e0c-945e-c3ad5cc5888d)
 
 
 ## 目录
